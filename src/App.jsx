@@ -20,7 +20,7 @@ const COLORES = {
   "Persona 2": { bg: "#FFF1F2", accent: "#F43F5E", light: "#FECDD3", text: "#9F1239" },
 };
 
-const AVATARES = { "Persona 1": "🧑", "Persona 2": "👤" };
+const AVATARES = { "Persona 1": "🧑", "Persona 2": "🧑" };
 
 function useLocalStorage(key, init) {
   const [val, setVal] = useState(() => {
