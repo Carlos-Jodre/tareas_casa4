@@ -1,5 +1,5 @@
 {
-"name": "tareas-casa",
+"name": "tareas",
 "scripts": {
 "dev": "vite",
 "build": "vite build"
